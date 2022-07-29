@@ -1,0 +1,26 @@
+<RCC>
+    <qresource prefix="/">
+        <file>qml/main.qml</file>
+        <file>qml/HomePage.qml</file>
+        <file>qml/DemoPage.qml</file>
+        <file>qml/CalibratePage.qml</file>
+        <file>qml/InfoPage.qml</file>
+        <file>qml/SettingsPage.qml</file>
+        <file>qtquickcontrols2.conf</file>
+        <file>qml/CircleProgress.qml</file>
+        <file>qml/CustomDialog.qml</file>
+        <file>assets/Fredoka-VariableFont_wdth,wght.ttf</file>
+        <file>assets/home.png</file>
+        <file>assets/settings.png</file>
+        <file>assets/help.png</file>
+        <file>assets/arrow.png</file>
+        <file>assets/camera.png</file>
+        <file>assets/dashboard.png</file>
+        <file>assets/desktop.png</file>
+        <file>assets/ms_windows.png</file>
+        <file>assets/app_48.ico</file>
+        <file>assets/profile.jpg</file>
+        <file>assets/videocam.png</file>
+        <file>assets/file_select.png</file>
+    </qresource>
+</RCC>

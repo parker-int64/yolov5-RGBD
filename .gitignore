@@ -1,0 +1,15 @@
+# vscode 
+./.vscode
+
+# build
+./build
+
+# video
+./video
+
+# weights
+./weights
+
+
+# user file
+./CMakeLists.txt.user
