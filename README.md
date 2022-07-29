@@ -1,6 +1,10 @@
 # Yolo RGBD Demo program
 ---
 
+
+**项目仅做参考，部分功能未完成**
+
+
 文件目录说明
 ```
 YoloRGBD
@@ -20,7 +24,7 @@ YoloRGBD
 
 ## 编译方式
 ---
-建议采用Qt Creator，（CMake + ninja）构建系统构建。
+建议采用Qt Creator，（CMake）构建系统构建。
 
 环境说明：
 ||||
@@ -28,7 +32,7 @@ YoloRGBD
 |类别|版本|备注|
 |OS|Windows 10 20H2|CPU: Intel i5/i7 六代以上, GPU: Nvidia GTX 1060|
 |Qt|5.15.2(MSVC 2019)|Qt Creator 7.0.0|
-|OpenCV|4.x|3.x到4.x需更改部分代码|
+|OpenCV|4.x|3.x到4.x需更改部分代码（将`bin`添加至环境变量中）|
 |OpenVino|2021.4.1(2022.1.0也测试可行)|需要自行复制`tbb.dll/tbb_debug.dll`到可执行文件目录(或者将其添加至环境变量中)|
 |Nvidia CUDA|10.3|将`bin`添加至环境变量中|
 |Nvidia cuDNN|8.x|将`bin`添加至环境变量中|
