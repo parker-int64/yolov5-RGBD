@@ -3,7 +3,8 @@
 
 
 **项目仅做参考，部分功能未完成**
-If I had more time, I will finish it.
+
+If I’d had more time, I could have finished it.
 
 
 文件目录说明
