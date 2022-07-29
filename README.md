@@ -42,3 +42,17 @@ YoloRGBD
 **OpenVino 仅支持Intel CPU/GPU以及部分Arm设备**，详情参见[Support lists](https://docs.openvino.ai/latest/openvino_docs_OV_UG_Working_with_devices.html)，如需编译请访问[Get Started](https://docs.openvino.ai/latest/get_started.html)下载所需套件。
 
 **Nvidia CUDA/cuDNN/TensorRT 仅支持Nvidia自家GPU**，如需编译请访问[Nvidia Developer](https://developer.nvidia.com/)下载所需套件。
+
+
+# 运行截图
+
++ Home page
+![HomePage](https://raw.githubusercontent.com/parker-int64/yolov5-RGBD/main/assets/homepage.png)
+
++ Detect page
+![DetectPage](https://raw.githubusercontent.com/parker-int64/yolov5-RGBD/main/assets/detectpage.png)
+
+
+# 运行方式
+
+按照正确的顺序选择摄像头序列，像素大小，推理后端类别和模型大小，先点击`Save and Init Engine`初始化引擎，然后可以点击左边的`Start Capture`和`Start Yolo Detection`
