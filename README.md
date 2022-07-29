@@ -3,6 +3,7 @@
 
 
 **项目仅做参考，部分功能未完成**
+If I had more time, I will finish it.
 
 
 文件目录说明
